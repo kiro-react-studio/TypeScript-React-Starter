@@ -29,7 +29,7 @@
     "@types/react" "*"
     redux "^3.6.0"
 
-"@types/react@*", "@types/react@5.0.14":
+"@types/react@*", "@types/react@15.0.14":
   version "15.0.4"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.4.tgz#97aedbba00448a137331aa8450232124aeb8d426"
 
